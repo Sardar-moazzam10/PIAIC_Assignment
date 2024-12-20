@@ -1,4 +1,4 @@
-# PIAIC_Assignment
+ PIAIC_Assignment
 Topic: Understanding OpenAI Chat Completion API Parameters
 Objective: 
 This assignment is designed to deepen your understanding of the parameters used with the OpenAI Chat Completion API. You will explain the purpose and functionality of the following terms or parameters in your own words.
@@ -21,12 +21,11 @@ Example:
   [
     {“role”: “user”, “content”: “What is AI?”},
     {“role”: “assistant”, “content”: “AI stands for Artificial Intelligence.”}
-  ]
-  ```
+
   The API uses this to generate a reply based on the flow of the conversation.
 
 
-2. Model
+1. Model
 Specifies the type of AI model you want to use for your task. 
 Different models have varying abilities and costs. For example:
   - `gpt-4`: Advanced, better for complex tasks.
